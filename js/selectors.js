@@ -9,5 +9,5 @@ function ninjaBabySelector(){
   return $("#baby-ninja")
 }
 function divSelector(){
-  $(".pics")
+  return $(".pics")
 }
